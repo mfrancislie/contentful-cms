@@ -1,5 +1,11 @@
+import { Hero } from './components';
+
 function App() {
-  return <h1>Contentful cms</h1>;
+  return (
+    <main>
+      <Hero />
+    </main>
+  );
 }
 
 export default App;
