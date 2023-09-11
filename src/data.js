@@ -1,17 +1,17 @@
 const projects = [
   {
     title: 'birthday buddy',
-    url: 'https://react-vite-projects-1-birthday-buddy.netlify.app/',
+    url: 'https://',
     image: './assets/birthday.png',
   },
   {
     title: 'tours',
-    url: 'https://react-vite-projects-2-tours.netlify.app/',
+    url: 'https://',
     image: './assets/tours.png',
   },
   {
     title: 'reviews',
-    url: 'https://react-vite-projects-3-reviews.netlify.app/',
+    url: 'https://',
     image: './assets/reviews.png',
   },
   {

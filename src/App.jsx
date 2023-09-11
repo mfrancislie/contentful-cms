@@ -1,9 +1,10 @@
-import { Hero } from './components';
+import { Hero, Projects } from './components';
 
 function App() {
   return (
     <main>
       <Hero />
+      <Projects/>
     </main>
   );
 }
